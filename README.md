@@ -1,2 +1,3 @@
-# vtex
+# FastStore 
+
 Internal product
