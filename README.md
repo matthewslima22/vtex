@@ -4,6 +4,6 @@ FastStore é uma nova maneira de criar e implantar vitrines, evolução do IO pa
 
 Conheça mais sobre o produto abaixo:
 
-- [Introdução]()
-- [Principais pontos]()
-- [Futuro]()
+- [Overview]()
+- [Key points]()
+- [Integration for customers]()
