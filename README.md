@@ -7,3 +7,4 @@ Learn more about FastStore:
 - [Overview](1-Overview.md)
 - [Key points](2-key-points.md)
 - [Integration for customers](3-Integration for customers.md)
+
