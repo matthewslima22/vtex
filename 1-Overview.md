@@ -11,7 +11,18 @@ This new version of the framework will impact your customer and your developers 
 - Combine the data, content, and services you need.
 - Respond quickly to business changes.
 
-## Development
+## FastStore Technical Specifications
 
+### MACH (Microservices, API First, Cloud-native e Headless Approach)
+The advantages of using a MACH architecture:
+Microservices allow applications to be deployed independently.
+API First, allows you to install and uninstall components that may interact.
+The cloud, on the other hand, allows everything to be stored, hosted, scaled, and updated automatically.
+And headless, separates the front-end from the back-end. This way it provides more freedom for creating the design of the site.
+
+### JAMstack
+Using JavaScript and consuming APIs, Jamstack sites are very dynamic and use static files only as a way to remove the need for a more complex server.
+The first advantage of using this architecture is performance. Since the frontend has already been pre-rendered before publishing and these files are usually served directly from a CDN, the response time of a Jamstack site is very low.
+Another advantage of a static file-based architecture is scalability. While traditional sites based on a dynamic server rely on cache layers to deliver pages quickly at times of high traffic loads, Jamstack sites have already been pre-rendered. 
 
 ![Figure 1. Comparation](https://raw.githubusercontent.com/matthewslima22/vtex/main/assets/images/Figure%201.%20Io%20vs%20FastStore.png "Figure 1. IO vs FastStore")
