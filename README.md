@@ -1,8 +1,8 @@
 # FastStore 
 
-FastStore é uma nova maneira de criar e implantar vitrines, evolução do VTEX IO. Que podem ser usados juntos ou independentemente, inspirado no Composable Commerce.
+FastStore is a new method of creating and deploying showcase, an evolution of VTEX IO. This new version of the framework will impact your customer and storefront developers by establishing a quality by design approach when building showcase in the Composable Commerce view.
 
-Conheça mais sobre o FastStore abaixo:
+Learn more about FastStore:
 
 - [Overview]()
 - [Key points]()
