@@ -26,3 +26,5 @@ Another advantage of a static file-based architecture is scalability. While trad
 - Respond quickly to business changes.
 
 ![Figure 1. Comparation](https://raw.githubusercontent.com/matthewslima22/vtex/main/assets/images/Figure%201.%20Io%20vs%20FastStore.png "Figure 1. IO vs FastStore")
+
+> #### Access [Integration for customers](3-Integration-for-customers.md) for more information.
