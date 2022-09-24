@@ -1,6 +1,6 @@
 # Overview
 
-FastCore is here to provide greater freedom to improve the shopping experience. We use Composable commerce (CC) in our system, which is an approach to commerce that allows retailers to combine multiple systems to meet consumer demands across multiple channels with greater agility, convenience, and flexibility.
+FastStore is here to provide greater freedom to improve the shopping experience. We use Composable Commerce (CC) in our system, which is an approach to commerce that allows retailers to combine multiple systems to meet consumer demands across multiple channels with greater agility, convenience, and flexibility.
 
 This new version of the framework will impact your customer and your developers by establishing a quality approach. The framework will allow your users to choose which framework best fits their needs and knowledge to build a storefront. This will allow them to take advantage of two different communities, ours and the web framework, improving their implementation speed and the number of pluggable features they will have at their disposal.
 
@@ -8,10 +8,10 @@ This new version of the framework will impact your customer and your developers 
 
 ### MACH (Microservices, API First, Cloud-native e Headless Approach)
 The advantages of using a MACH architecture:
-Microservices allow applications to be deployed independently.
-API First, allows you to install and uninstall components that may interact.
-The cloud, on the other hand, allows everything to be stored, hosted, scaled, and updated automatically.
-And headless, separates the front-end from the back-end. This way it provides more freedom for creating the design of the site.
+- Microservices allow applications to be deployed independently.
+- API First, allows you to install and uninstall components that may interact.
+- The cloud, on the other hand, allows everything to be stored, hosted, scaled, and updated automatically.
+- Headless, separates the front-end from the back-end. This way it provides more freedom for creating the design of the site.
 
 ### JAMstack
 Using JavaScript and consuming APIs, Jamstack sites are very dynamic and use static files only as a way to remove the need for a more complex server.
